@@ -648,6 +648,21 @@ p {
 
 .navbar-brand img.logo {
 	height: 45px;
+	float: left;
+	display: inline-flex;
+}
+.navbar-brand .logo-name {
+	font-family: 'Lato';
+	display: inline-flex;
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: 1.6px;
+	color: #373037;
+	float: left;
+	padding: 0px 0 0 5px;
+}
+.sticky .navbar-brand .logo-name {
+	color: #d2cbb8;
 }
 
 .navbar-toggler {
@@ -1685,9 +1700,9 @@ p {
 	height: 40px;
 	line-height: 40px;
 	border-radius: 5px;
-	background: -webkit-linear-gradient(left, #007B9C 0%, #2e82ef 100%);
-	background: -o-linear-gradient(left, #007B9C 0%, #2e82ef 100%);
-	background: linear-gradient(to right, #007B9C 0%, #2e82ef 100%);
+	background: -webkit-linear-gradient(left, #007b9c 0%, #2e82ef 100%);
+	background: -o-linear-gradient(left, #007b9c 0%, #2e82ef 100%);
+	background: linear-gradient(to right, #007b9c 0%, #2e82ef 100%);
 	text-align: center;
 	z-index: 99;
 	-webkit-transition: all 0.3s ease-out 0s;
