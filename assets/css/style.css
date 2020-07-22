@@ -1504,12 +1504,12 @@ p {
 	line-height: 65px;
 	background: -webkit-linear-gradient(
 		left,
-		#fe8464 0%,
-		#fe6e9a 50%,
-		#fe8464 100%
+		#e97a1a 0%,
+		#e06841 50%,
+		#e97a1a 100%
 	);
-	background: -o-linear-gradient(left, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
-	background: linear-gradient(to right, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
+	background: -o-linear-gradient(left, #e97a1a 0%, #e06841 50%, #e97a1a 100%);
+	background: linear-gradient(to right, #e97a1a 0%, #e06841 50%, #e97a1a 100%);
 	background-size: 200%;
 }
 @media (max-width: 767px) {
@@ -1685,9 +1685,9 @@ p {
 	height: 40px;
 	line-height: 40px;
 	border-radius: 5px;
-	background: -webkit-linear-gradient(left, #361cc1 0%, #2e82ef 100%);
-	background: -o-linear-gradient(left, #361cc1 0%, #2e82ef 100%);
-	background: linear-gradient(to right, #361cc1 0%, #2e82ef 100%);
+	background: -webkit-linear-gradient(left, #007B9C 0%, #2e82ef 100%);
+	background: -o-linear-gradient(left, #007B9C 0%, #2e82ef 100%);
+	background: linear-gradient(to right, #007B9C 0%, #2e82ef 100%);
 	text-align: center;
 	z-index: 99;
 	-webkit-transition: all 0.3s ease-out 0s;
