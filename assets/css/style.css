@@ -1046,19 +1046,21 @@ p {
 .single-logo {
 	padding: 0 30px;
 }
+.single-logo.logo-adblock {
+	margin-bottom: -6px;
+}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.single-logo {
-		padding: 0 15px;
+		padding: 0 14px;
 	}
 }
 @media (max-width: 767px) {
 	.single-logo {
-		padding: 0 15px;
+		padding: 0 14px;
 	}
 }
 @media (max-width: 767px) {
 	.single-logo {
-		width: 50%;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -1067,7 +1069,6 @@ p {
 	}
 }
 .single-logo img {
-	width: 100%;
 	opacity: 0.5;
 	-webkit-transition: all 0.3s ease-out 0s;
 	-moz-transition: all 0.3s ease-out 0s;
