@@ -65,7 +65,7 @@ $(function () {
 								"A company's assets are in danger when users expose your network using a regular browser. \
 							With Qalfy, the gateway to the Internet is delegated to our highly secured servers in the \
 							cloud. File downloads, website blocking and time constraints are now under your control.",
-							qa: 'Development and QA <span>have never been easier</span>',
+							qa: 'Development and QA <span>in perfect synchronicity</span>',
 							'qa-content':
 								'Test your apps right within the same context as your QA analyst, live. Debug interactively \
 							using a fully compliant DevTools integrated while your team mates or customers report an \
@@ -140,7 +140,7 @@ $(function () {
 								un navegador común y corriente. Con Qalfy, la entrada a Internet es delegada a nuestros servidores seguros \
 								en la nube. Las descargas, el filtrado de sitios y el control de tiempo de navegación esta bajo su \
 								completo control.',
-							qa: 'Programación y QA  <span>nunca fueron más fáciles</span>',
+							qa: 'Programación y QA  <span>en perfecta sincronía</span>',
 							'qa-content':
 								'Depura tus aplicaciones o sitios en el mismo contexto que tu analista de control de calidad, en vivo. \
 								Depura de manera interactiva usando los DevTools integrados totalmente compatible mientras \
