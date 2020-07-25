@@ -138,12 +138,12 @@ $(function () {
 							'enterprise-content':
 								'Los activos de una compañía estan en peligro cuando sus usuarios exponen su red usando \
 								un navegador común y corriente. Con Qalfy, la entrada a Internet es delegada a nuestros servidores seguros \
-								en la nube. Las descargas, el filtrado de sitios y el control de tiempo de navegación esta bajo su \
+								en la nube. Las descargas, el filtrado de sitios y el control de tiempo de navegación están bajo su \
 								completo control.',
 							qa: 'Programación y QA  <span>en perfecta sincronía</span>',
 							'qa-content':
 								'Depura tus aplicaciones o sitios en el mismo contexto que tu analista de control de calidad, en vivo. \
-								Depura de manera interactiva usando los DevTools integrados totalmente compatible mientras \
+								Depura de manera interactiva usando los DevTools integrados mientras \
 								tu equipo o clientes reportan un incidente. \
 								Graba, reproduce y exporta a librerias de testing populares: <b>Selenium</b>, <b>Jest</b>, \
 								<b>Nightmare</b> y más!',
