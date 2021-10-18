@@ -77,6 +77,7 @@ $(function () {
 							privacy:
 								'We do not collect personal information from visitors unless it&apos;s explicitly \
 							required with your consent. We don&apos;t spam visitors with promotions or newsletters.',
+							tech: 'This site runs on the <a href="https://ipfs.io/" target="_blank">IPFS</a> network.'
 						},
 						btn: {
 							start: 'Get Started',
@@ -152,6 +153,7 @@ $(function () {
 							privacy:
 								'No preservamos información personal de los visitantes al menos que sea \
 							explícitamente requerida y con su consentimiento. No enviamos spam, promociones ni newsletters.',
+							tech: 'Este sitio se encuentra alojado en la red <a href="https://ipfs.io/" target="_blank">IPFS</a>.'
 						},
 						btn: {
 							start: 'Empieza Ahora',

@@ -1702,7 +1702,11 @@ p {
 .link-wrapper .link li a:hover {
 	color: #fe8464;
 }
-
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.footer-contact {
+		padding-top: 42%;
+	}
+}
 .footer-contact .contact {
 	padding-top: 20px;
 }
