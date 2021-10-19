@@ -40,8 +40,8 @@ $(function () {
 								'A Qalfy Session is ethereal as it self destroys upon each use. \
 									A secure <a href="https://wikipedia.org/wiki/Peer-to-peer" target="_blank">P2P</a> \
 									connection is established between you \
-									and a non-persistent browser. Our servers don\'t track your activity nor your identity, \
-									unless you explicitly allow that.',
+									and a non-persistent browser. QAlfy doesn\'t track your activity nor your identity. \
+									There is no central server dealing with any of your data.',
 							extensible: 'Extensible',
 							'extensible-content':
 								"Develop custom plugins to extract the most out of the browsing experience: for \
@@ -51,8 +51,7 @@ $(function () {
 							'effective-content':
 								'Using a regular browser, your bandwidth and processing power is compromised: there are \
 							tons of resources that are being downloaded and run on the background. \
-							Using our browsers in the cloud, you get the final picture. Leave the processing power \
-							to us.',
+							Using a QAlfy browser in the cloud, you get the final picture.',
 							workflow:
 								'Improve the workflow <span>by sharing a browser</span>',
 							'workflow-content':
@@ -63,8 +62,8 @@ $(function () {
 								'Enterprise security <span> using our gateway </span>',
 							'enterprise-content':
 								"A company's assets are in danger when users expose your network using a regular browser. \
-							With Qalfy, the gateway to the Internet is delegated to our highly secured servers in the \
-							cloud. File downloads, website blocking and time constraints are now under your control.",
+								QAlfy doesn't relate activities with its users and never persists any data. \
+								Everything gets encrypted on the fly.",
 							qa: 'Development and QA <span>in perfect synchronicity</span>',
 							'qa-content':
 								'Test your apps right within the same context as your QA analyst, live. Debug interactively \
@@ -75,8 +74,8 @@ $(function () {
 							subscribe: 'Subscribe <span>for launch date</span>',
 							email: 'Enter email address',
 							privacy:
-								'We do not collect personal information from visitors unless it&apos;s explicitly \
-							required with your consent. We don&apos;t spam visitors with promotions or newsletters.',
+								'QAlfy does not collect personal information from visitors unless it&apos;s explicitly \
+							required with your consent. QAlfy doesn&apos;t spam visitors with promotions or newsletters.',
 							tech: 'This site runs on the <a href="https://ipfs.io/" target="_blank">IPFS</a> network.'
 						},
 						btn: {
@@ -116,8 +115,8 @@ $(function () {
 							'secure-content':
 								'Una sesión Qalfy es etérea ya que se autodestruye luego de cada uso. \
 							Una conexión <a href="https://wikipedia.org/wiki/Peer-to-peer" target="_blank">P2P</a> \
-							segura es establecida entre usted y un navegador no persistente. Nuestros servidores no registran su actividad ni su identidad, \
-							al menos que usted lo permita explícitamente.',
+							segura es establecida entre usted y un navegador no persistente. QAlfy no registra su actividad ni su identidad. \
+							No hay un servidor central administrando su información.',
 							extensible: 'Extensible',
 							'extensible-content':
 								'Desarrolla complementos personalizados para obtener el mayor provecho \
@@ -127,7 +126,7 @@ $(function () {
 							'effective-content':
 								'Usando un navegador común, el ancho de banda y poder de procesamiento están comprometidos: \
 								hay gran cantidad de recursos que se descargan y ejecutan de fondo. \
-								Usando nuestros navegadores en la nube, se obtiene la imágen final. Delega el poder de procesamiento a nosotros.',
+								Usando un navegador QAlfy en la nube, se obtiene la imágen final.',
 							workflow:
 								'Optimiza el flujo de trabajo <span>compartiendo un navegador</span>',
 							'workflow-content':
@@ -138,9 +137,8 @@ $(function () {
 								'Seguridad corporativa <span> usando nuestro gateway</span>',
 							'enterprise-content':
 								'Los activos de una compañía estan en peligro cuando sus usuarios exponen su red usando \
-								un navegador común y corriente. Con Qalfy, la entrada a Internet es delegada a nuestros servidores seguros \
-								en la nube. Las descargas, el filtrado de sitios y el control de tiempo de navegación están bajo su \
-								completo control.',
+								un navegador común y corriente. QAlfy no asocia ninguna actividad con sus usuarios, y \
+								tampoco persiste ningún dato. Todo es encriptado en el momento.',
 							qa: 'Programación y QA  <span>en perfecta sincronía</span>',
 							'qa-content':
 								'Depura tus aplicaciones o sitios en el mismo contexto que tu analista de control de calidad, en vivo. \
@@ -151,8 +149,8 @@ $(function () {
 							subscribe: 'Subscríbase <span>para el lanzamiento</span>',
 							email: 'Ingresa correo electrónico',
 							privacy:
-								'No preservamos información personal de los visitantes al menos que sea \
-							explícitamente requerida y con su consentimiento. No enviamos spam, promociones ni newsletters.',
+								'QAlfy no preserva información personal de los visitantes al menos que sea \
+							explícitamente requerida y con su consentimiento. QAlfy no envía spam, promociones ni newsletters.',
 							tech: 'Este sitio se encuentra alojado en la red <a href="https://ipfs.io/" target="_blank">IPFS</a>.'
 						},
 						btn: {
