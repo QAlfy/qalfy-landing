@@ -59,10 +59,10 @@ $(function () {
 							demos and showcase your work, live. Let others contribute and interact with you and the \
 							browser. Much better than screensharing: this is browser-sharing.',
 							enterprise:
-								'Enterprise security <span> using our gateway </span>',
+								'High grade security <span>tunnel</span>',
 							'enterprise-content':
-								"A company's assets are in danger when users expose your network using a regular browser. \
-								QAlfy doesn't relate activities with its users and never persists any data. \
+								"A company's assets are in danger when users expose the network using a regular browser. \
+								QAlfy doesn't associates activities with its users and never persists any data. \
 								Everything gets encrypted on the fly.",
 							qa: 'Development and QA <span>in perfect synchronicity</span>',
 							'qa-content':
@@ -75,7 +75,7 @@ $(function () {
 							email: 'Enter email address',
 							privacy:
 								'QAlfy does not collect personal information from visitors unless it&apos;s explicitly \
-							required with your consent. QAlfy doesn&apos;t spam visitors with promotions or newsletters.',
+							required with their consent. QAlfy doesn&apos;t spam visitors with promotions or newsletters.',
 							tech: 'This site runs on the <a href="https://ipfs.io/" target="_blank">IPFS</a> network.'
 						},
 						btn: {
@@ -87,7 +87,7 @@ $(function () {
 						},
 						footer: {
 							resources: 'Resources',
-							contact: 'Contact Us',
+							contact: 'Contact',
 							copyright:
 								'Trademarks belong to their respective \
 							owners &vert; All rights reserved',
@@ -134,10 +134,10 @@ $(function () {
 								reproduce tus demos y expone tu trabajo, en vivo. Deja que otros contribuyan e interactuen contigo \
 								y el navegador. Mucho mejor que compartir pantalla: esto es compartir un mismo navegador.',
 							enterprise:
-								'Seguridad corporativa <span> usando nuestro gateway</span>',
+								'Un túnel con <span>alto grado de seguridad</span>',
 							'enterprise-content':
-								'Los activos de una compañía estan en peligro cuando sus usuarios exponen su red usando \
-								un navegador común y corriente. QAlfy no asocia ninguna actividad con sus usuarios, y \
+								'Los activos de una compañía estan en peligro cuando sus usuarios exponen la red usando \
+								un navegador común y corriente. QAlfy no asocia ninguna actividad con el usuario, y \
 								tampoco persiste ningún dato. Todo es encriptado en el momento.',
 							qa: 'Programación y QA  <span>en perfecta sincronía</span>',
 							'qa-content':
